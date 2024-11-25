@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wtheus_ferreira/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-william-727006215/)
 
-![Matheus William GitHub stats](https://github-readme-stats.vercel.app/api?username=williammath26&show_icons=true&theme=highcontrast)
+
 
 ## Tecnologias que eu uso no meu dia
 
